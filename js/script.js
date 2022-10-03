@@ -81,7 +81,7 @@ const songs = [
     {
         song_name: "Teri Ada",
         path: "songs/1.mp3",
-        song_artist: "Arijit Singh"
+        song_artist: "Mohit Chauhan"
 
     },
     {
